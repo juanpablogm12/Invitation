@@ -178,6 +178,9 @@ body {
     font-family: italianno, sans-serif;
 }
 
+.hour{
+    font-weight: 600;
+}
 .button-container{
     width: 100%;
     display: flex;
