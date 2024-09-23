@@ -1,0 +1,30 @@
+# Cache de Parcel
+.parcel-cache/
+
+# Archivos generados por build (dist)
+dist/
+
+# Dependencias de Node.js
+node_modules/
+
+# Logs de npm
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Sistema de empaquetado de lock files (opcional, pero típicamente se incluye `package-lock.json`)
+# Si decides no subir `yarn.lock`, puedes descomentarlo
+# yarn.lock
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos del entorno de desarrollo
+.env
+.env.local
+.env.*.local
+
+# IDEs/editores (opcional)
+.vscode/
+.idea/
